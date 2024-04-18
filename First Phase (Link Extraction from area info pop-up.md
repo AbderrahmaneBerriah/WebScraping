@@ -31,3 +31,9 @@ Print and write the extracted URLs to the output file.
 7.Error Handling and Cleanup:
 Catch and print any exceptions that occur during execution.
 Quit the WebDriver instance to release resources.
+
+Txt file preview:
+
+![links quebec](https://github.com/AbderrahmaneBerriah/webscraping/assets/123358365/9d8a791e-1d86-4e3d-8137-e67229f0b02c)
+
+
