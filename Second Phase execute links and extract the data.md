@@ -30,3 +30,8 @@ Write the DataFrame to an Excel file, omitting the index column.
 Print Final Message:
 
 Print a message indicating the location where the scraped data has been saved in Excel format.
+
+Data preview in Excel file:
+
+![data excel quebec](https://github.com/AbderrahmaneBerriah/webscraping/assets/123358365/06e28305-ede3-4f33-b463-6f3c3e87409c)
+
